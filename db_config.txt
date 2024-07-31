@@ -1,0 +1,24 @@
+# Cassandra 접속 정보
+ca_host1=127.0.0.1
+ca_keyspace1=test_keyspace
+
+# MongoDB 접속 정보
+mo_uri1=mongodb://localhost:27017/
+mo_database1=mydatabase
+
+# MariaDB 접속 정보
+ma_host1=127.0.0.1
+ma_user1=root
+ma_password1=1234abcd
+ma_database1=cust
+
+# MSSQL 접속 정보
+ms_host1=127.0.0.1,1433
+ms_user1=user1
+ms_password1=1234abcd
+ms_database1=personal
+
+ms_host2=127.0.0.1,1433
+ms_user2=user1
+ms_password2=1234abcd
+ms_database2=engine

@@ -1,0 +1,20 @@
+Database Info: MSSQL Host: 127.0.0.1,1433, User: user1, Database: personal
+Error Message: (pyodbc.ProgrammingError) ('42S02', "[42S02] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]개체 이름 'personal.table_1'이(가) 유효하지 않습니다. (208) (SQLExecDirectW)")
+[SQL: SELECT TOP 10 * FROM personal.table_1 ORDER BY id DESC]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+
+Database Info: MSSQL Host: 127.0.0.1,1433, User: user1, Database: personal
+Error Message: (pyodbc.ProgrammingError) ('42S02', "[42S02] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]개체 이름 'personal.table_1'이(가) 유효하지 않습니다. (208) (SQLExecDirectW)")
+[SQL: SELECT TOP 10 * FROM personal.table_1 ORDER BY id DESC]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+
+Database Info: MSSQL Host: 127.0.0.1,1433, User: user1, Database: personal
+Error Message: (pyodbc.ProgrammingError) ('42S02', "[42S02] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]개체 이름 'personal.table_1'이(가) 유효하지 않습니다. (208) (SQLExecDirectW)")
+[SQL: SELECT TOP 10 * FROM personal.table_1 ORDER BY id DESC]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+
+Database Info: MSSQL Host: 127.0.0.1,1433, User: user1, Database: personal
+Error Message: (pyodbc.ProgrammingError) ('42S02', "[42S02] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]개체 이름 'personal.table_1'이(가) 유효하지 않습니다. (208) (SQLExecDirectW)")
+[SQL: SELECT TOP 10 * FROM personal.table_1 ORDER BY id DESC]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+
